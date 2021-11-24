@@ -1,0 +1,7 @@
+aiogram
+os
+types
+telebot
+attr
+random
+sqlite3

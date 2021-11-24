@@ -1,0 +1,2 @@
+TOKEN = '2101866120:AAEaEQxQJLOcEIQGcF2WKn1ZQiddqVsy7V0' #Токен бота
+DBNAME = 'test.db'
